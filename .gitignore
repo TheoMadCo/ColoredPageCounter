@@ -1,0 +1,42 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+env.bak/
+venv.bak/
+
+# macOS-specific files
+.DS_Store
+
+# Windows-specific files
+Thumbs.db
+
+# PyInstaller
+dist/
+build/
+*.spec
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Temporary files
+*.log
+*.bak
+*.swp
+
+# Other files that should not be tracked
+*.db
+*.sqlite
+
+# PDFs generated during testing
+*.pdf
+
+# Pytest cache
+.pytest_cache/
