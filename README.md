@@ -36,11 +36,11 @@ pip install -r requirements.txt
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/PDFColorAnalyzer.git
+    git clone https://github.com/yourusername/ColoredPageCounter.git
     ```
 2. Navigate to the project folder:
     ```bash
-    cd PDFColorAnalyzer
+    cd ColoredPageCounter
     ```
 3. Install the required dependencies:
     ```bash
