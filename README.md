@@ -1,4 +1,4 @@
-# PDF Color Analyzer
+# PDF Colored Page Counter
 
 A sleek and modern tool for analyzing PDFs and categorizing pages as either black and white or color. This app is perfect for users who need to analyze large documents and identify the types of pages, all while providing a clean, user-friendly interface. Built with PyQt6 for the GUI and PDF2Image for efficient PDF processing.
 
